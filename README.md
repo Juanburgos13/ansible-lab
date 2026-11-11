@@ -83,4 +83,6 @@ A continuación se presenta la captura de pantalla de la ejecución exitosa del 
 
 **Captura de pantalla:**
 
-![Ejecución exitosa del Playbook](capturas/ejecucion-playbook.png)
+<img width="1920" height="1080" alt="Screenshot 2026-11-11 at 4 10 58 PM" src="https://github.com/user-attachments/assets/bd17539d-30d0-4e67-90d8-0cbd7556aa67" />
+
+
